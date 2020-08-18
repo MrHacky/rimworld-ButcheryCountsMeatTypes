@@ -4,6 +4,7 @@
 		<packageId>MrHacky.ButcheryCountsMeatTypes</packageId>
 	<supportedVersions>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<description>Makes butchery jobs count only allowed meat types based on the allowed corpse types to use, for use with "Do until you have X" bills.</description>
 	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2178417679</url>
